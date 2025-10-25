@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Recursive Confabulation: dataset and replication materials"
+authors:
+  - family-names: DeVilling
+    given-names: Bentley
+    affiliation: Course Correct Labs (Independent Research Group, Boulder Creek, CA)
+contact:
+  - email: Bentley@CourseCorrectLabs.com
+identifiers:
+  - type: url
+    value: https://github.com/Course-Correct-Labs/recursive-confabulation
+repository-code: "https://github.com/Course-Correct-Labs/recursive-confabulation"
+keywords:
+  - large language models
+  - hallucination
+  - confabulation
+  - grounding
+  - interpretability
+license: "MIT (code); CC BY 4.0 (data and text)"
+date-released: "2025-10-25"
+version: "v1.0"
+preferred-citation:
+  type: article
+  title: "Recursive Confabulation in Large Language Models: Why Reasoning Prompts Backfire and Grounding Works (Sometimes)"
+  authors:
+    - family-names: DeVilling
+      given-names: Bentley
+      affiliation: Course Correct Labs (Independent Research Group)
+  year: 2025
+  journal: "Working Paper"
+  notes: "Dataset and replication materials hosted by Course Correct Labs."
