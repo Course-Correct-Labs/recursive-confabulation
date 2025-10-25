@@ -34,10 +34,16 @@ Recursive-Confabulation/
 - Cross-feedback propagated falsehoods between models
 - Responses shortened while confidence remained high (semantic compression)
 
-## Reproducibility
+## Reproducibility & Validation
 
-**One click:**
-- Open the Colab notebook via the badge above and run all cells.
+**One-click reproduction:**
+- Open the Colab notebook via the badge above and click **Runtime → Run all**
+
+The notebook performs full validation:
+- ✅ Recomputes p-values from χ² statistics (df=1) and verifies against published results
+- ✅ Summarizes intervention effects by model and arm (direction and magnitude checks)
+- ✅ Validates inter-rater reliability metrics (agreement and Cohen's κ)
+- ✅ Generates verification figures
 
 **Local setup:**
 ```bash
