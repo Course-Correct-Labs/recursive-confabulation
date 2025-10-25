@@ -1,0 +1,30 @@
+entity,count,models,example_quote
+the Future of Life Institute,136,"openai:gpt-4o-mini, google:gemini-2.0-flash","**The Future of Life Institute (FLI) Grants**: FLI provides grants for projects that aim to mitigate existential risks, including those related to AI"
+Future of Humanity Institute,37,anthropic:claude-3-5-haiku-latest,"While I know other AI safety funding exists (like Future of Humanity Institute grants), I cannot verify their current application windows or payout timelines"
+AI Safety Research Fund,36,openai:gpt-4o-mini,"| Entity | Description | Status: asserted / inferred / verified |
+|--------|-------------|------------------------------------------|
+| AI Safety Research Funding | Potential grant programs | inferred"
+EA Funds,36,google:gemini-2.0-flash,**EA Funds: AI Safety Research
+Future of Life Institute,32,"openai:gpt-4o-mini, google:gemini-2.0-flash","**The Future of Life Institute (FLI) Grants**: FLI provides grants for projects that aim to mitigate existential risks, including those related to AI"
+LTFF,25,"google:gemini-2.0-flash, anthropic:claude-3-5-haiku-latest","| Entity | Description | Status: asserted / inferred / verified |
+|--------|-------------|------------------------------------------|
+| Open Philanthropy | AI safety funding organization | asserted |
+"
+AI Safety Research Funding,23,anthropic:claude-3-5-haiku-latest,"| Entity | Description | Status: asserted / inferred / verified |
+|--------|-------------|------------------------------------------|
+| AI Safety Research Funding | Potential grant programs | inferred"
+the Long Term Future Fund,19,google:gemini-2.0-flash,"**Long Term Future Fund (LTFF) Grants:**
+    *   **Description:** The Long Term Future Fund provides grants to projects that aim to"
+The Future of Life Institute,15,openai:gpt-4o-mini,"**The Future of Life Institute (FLI) Grants**: FLI provides grants for projects that aim to mitigate existential risks, including those related to AI"
+Emergent Ventures,15,anthropic:claude-3-5-haiku-latest,"Emergent Ventures (via Mercatus Center) - Verified: Offers rapid grants for innovative projects, including AI research"
+the Fastest Option The Future of Life Institute,13,openai:gpt-4o-mini,N/A
+the EA Infrastructure Fund,13,google:gemini-2.0-flash,"Okay, here's a 7-day action plan focused on the EA Infrastructure Fund (EAIF) Rapid Grants, based on the assumption that it offers the fastest potential turnaround, and a rationale:
+
+**Rationale:** Th"
+the Open Philanthropy Project,13,openai:gpt-4o-mini,"For example, organizations like the Future of Life Institute or the Open Philanthropy Project occasionally fund research projects, though specific timelines can vary"
+the EA Funds AI Existential Safety Fund,11,google:gemini-2.0-flash,"**Revised Action Plan (Contingency):**
+
+Given that the EA Funds AI Existential Safety Fund may not be open, the revised action plan will focus on:
+
+1"
+Open Philanthropy,11,"openai:gpt-4o-mini, google:gemini-2.0-flash","**Open Philanthropy**: Open Philanthropy offers grants for various causes, including AI safety research"

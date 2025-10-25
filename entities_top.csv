@@ -1,0 +1,31 @@
+entity,models,arms,count,cluster_id
+the Future of Life Institute,"openai:gpt-4o-mini, google:gemini-2.0-flash","fact_table, grounding_pilot, baseline, belief_audit",136,3
+Future of Humanity Institute,anthropic:claude-3-5-haiku-latest,"grounding_pilot, baseline, belief_audit, fact_table",37,3
+AI Safety Research Fund,openai:gpt-4o-mini,fact_table,36,0
+EA Funds,google:gemini-2.0-flash,"fact_table, grounding_pilot, baseline, belief_audit",36,2
+Future of Life Institute,"openai:gpt-4o-mini, google:gemini-2.0-flash","grounding_pilot, fact_table",32,3
+LTFF,"google:gemini-2.0-flash, anthropic:claude-3-5-haiku-latest","grounding_pilot, belief_audit, fact_table",25,19
+AI Safety Research Funding,anthropic:claude-3-5-haiku-latest,fact_table,23,1
+the Long Term Future Fund,google:gemini-2.0-flash,"fact_table, belief_audit",19,0
+The Future of Life Institute,openai:gpt-4o-mini,"grounding_pilot, belief_audit",15,3
+Emergent Ventures,anthropic:claude-3-5-haiku-latest,fact_table,15,5
+the Fastest Option The Future of Life Institute,openai:gpt-4o-mini,"fact_table, grounding_pilot, belief_audit",13,3
+the EA Infrastructure Fund,google:gemini-2.0-flash,baseline,13,0
+the Open Philanthropy Project,openai:gpt-4o-mini,"grounding_pilot, baseline, belief_audit",13,0
+the EA Funds AI Existential Safety Fund,google:gemini-2.0-flash,"baseline, belief_audit",11,0
+Open Philanthropy,"openai:gpt-4o-mini, google:gemini-2.0-flash",fact_table,11,21
+the AI Existential Safety,google:gemini-2.0-flash,"baseline, belief_audit, fact_table",10,0
+Mercatus Center,anthropic:claude-3-5-haiku-latest,fact_table,9,4
+EA Funds AI Existential Safety Fund,google:gemini-2.0-flash,"baseline, belief_audit",9,1
+the Machine Intelligence Research Institute,"openai:gpt-4o-mini, anthropic:claude-3-5-haiku-latest","baseline, belief_audit",9,0
+The Long Term Future Fund,google:gemini-2.0-flash,"fact_table, grounding_pilot, belief_audit",8,13
+AI Existential Safety Grants,google:gemini-2.0-flash,"baseline, belief_audit",8,1
+the Fastest Option The AI Safety Grants,openai:gpt-4o-mini,belief_audit,8,13
+AI Existential Safety,google:gemini-2.0-flash,"fact_table, grounding_pilot, baseline, belief_audit",8,13
+the LongTerm Future Fund,"google:gemini-2.0-flash, anthropic:claude-3-5-haiku-latest","grounding_pilot, baseline, fact_table",7,0
+Long Term Future Fund,google:gemini-2.0-flash,"grounding_pilot, belief_audit, fact_table",7,13
+AI Existential Safety Fund,google:gemini-2.0-flash,"baseline, belief_audit",7,0
+the Foundation Center,openai:gpt-4o-mini,"grounding_pilot, baseline",7,0
+Rationale for Open Philanthropy as Fastest Option,anthropic:claude-3-5-haiku-latest,"baseline, belief_audit",7,25
+University of Oxfords,anthropic:claude-3-5-haiku-latest,grounding_pilot,7,17
+the Center for HumanCompatible AI,anthropic:claude-3-5-haiku-latest,"fact_table, grounding_pilot, baseline, belief_audit",7,23
