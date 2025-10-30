@@ -1,15 +1,46 @@
-Dual License Model
+Dual License Notice
 
-Code (MIT License)
+This repository uses a dual-license model:
+
+1. Code – MIT License  
+2. Data, Text, Figures – Creative Commons Attribution 4.0 International (CC-BY-4.0)
+
+------------------------------------------------------------
+CODE LICENSE (MIT)
+------------------------------------------------------------
 
 MIT License © 2025 Bentley DeVilling / Course Correct Labs
 
-Permission is granted free of charge to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions: include this notice in all copies or substantial portions of the Software.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Data / Text / Figures (CC BY 4.0)
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+------------------------------------------------------------
+DATA / TEXT / FIGURES LICENSE (CC-BY-4.0)
+------------------------------------------------------------
+
+Creative Commons Attribution 4.0 International  
+(CC BY 4.0)  
 https://creativecommons.org/licenses/by/4.0/
 
-Attribution: "Recursive Confabulation dataset and replication materials — Bentley DeVilling, Course Correct Labs (2025)"
+You are free to share and adapt these materials, provided you give appropriate credit.
+
+Required attribution:
+
+"Recursive Confabulation dataset and replication materials — Bentley DeVilling, Course Correct Labs (2025)"
+
+Please cite the associated working paper if used in academic, commercial, or research settings.
